@@ -1,0 +1,12 @@
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\bin\Debug\assignment2.exe.config
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\bin\Debug\assignment2.exe
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\bin\Debug\assignment2.pdb
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.csproj.AssemblyReference.cache
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.Form1.resources
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.cache
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.exe
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.pdb
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.Form2.resources
+E:\UserData\Coding\C#\appdev with .net\assignment2\assignment2\obj\Debug\assignment2.Form3.resources
